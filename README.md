@@ -52,7 +52,7 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vancenceho&show_icons=true&locale=en" alt="vancenceho" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vancenceho&" alt="vancenceho" />
-  <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=vancenceho&show_icons=true&locale=en&layout=compact" alt="vancenceho"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vancenceho&show_icons=true&locale=en&layout=compact" alt="vancenceho"/>
 </div>
 
 ## 🔗 Links
