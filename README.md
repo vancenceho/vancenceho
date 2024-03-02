@@ -1,9 +1,6 @@
 <!--
 **vancenceho/vancenceho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi 👋, I'm Vancence</h1>
 <h3 align="center">An aspiring software engineer who is currently a Y2 Computer Science & Design (CSD) Major at the Singapore University of Technology & Design (SUTD).</h3>
 
