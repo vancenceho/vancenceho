@@ -1,8 +1,11 @@
 <!--
 **vancenceho/vancenceho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+## 🚀 About Me
+
 <h1 align="center">Hi 👋, I'm Vancence</h1>
-<h3 align="center">An aspiring software engineer who is currently a Y2 Computer Science & Design (CSD) Major at the Singapore University of Technology & Design (SUTD).</h3>
+<h3 align="right">An aspiring software engineer who is currently a Y2 Computer Science & Design (CSD) Major at the Singapore University of Technology & Design (SUTD).</h3>
 
 - 🔭 I’m currently working on EDITH **Events & Deadlines Intelligent Task Handler**
 
