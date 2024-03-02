@@ -50,7 +50,7 @@
 
 ## 📈 Stats
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vancenceho&show_icons=true&locale=en" alt="vancenceho" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vancenceho&show_icons=true&locale=en" alt="vancenceho" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vancenceho&" alt="vancenceho" />
 </div>
 
