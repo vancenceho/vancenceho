@@ -1,7 +1,6 @@
-### Hi there 👋
-
 <!--
 **vancenceho/vancenceho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -32,6 +31,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vancenceho&show_icons=true&locale=en" alt="vancenceho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vancenceho&" alt="vancenceho" /></p>
-
-
--->
