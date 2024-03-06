@@ -61,9 +61,8 @@
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/vancenceho)
 
 ## 📈 Stats
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vancenceho&show_icons=true&locale=en" alt="vancenceho" />
-</div>
-<div align="center">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vancenceho&" alt="vancenceho" />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vancenceho&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58" width="500" height="200" alt="vancenceho"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vancenceho&theme=dark" alt="vancenceho" width="250" height="200"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark" width="500" height="195">
+</p>
