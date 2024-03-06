@@ -64,5 +64,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vancenceho&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58" width="450" height="180" alt="vancenceho"/>
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vancenceho&theme=dark" alt="vancenceho" width="250" height="200"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark" width="400" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark" width="380" height="180">
 </p>
