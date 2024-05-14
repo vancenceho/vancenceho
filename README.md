@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Vancence, an aspiring **Software Engineer** (specializing in **Artificial Intelligence**) who is currently seeking a summer tech intership! I currently pursuing my Bachelor's in **Computer Science & Design** with a Minor in **Artificial Intelligence** and a Specialization in **Software Engineering** at the **Singapore University of Technology & Design (SUTD)** looking to graduate in mid-2026. 
+🎓 I am Vancence, an aspiring **Software Engineer** (specializing in **Artificial Intelligence**) who is currently seeking a summer tech internship! I currently pursuing my Bachelor's in **Computer Science & Design** with a Minor in **Artificial Intelligence** and a Specialization in **Software Engineering** at the **Singapore University of Technology & Design (SUTD)** looking to graduate in mid-2026. 
 
 🔭 I enjoy building projects as well as contributing to my team as a team player. Currently, as part of a module, I am working on EDITH a.k.a **E**vents & **D**eadline **I**ntelligent **T**ask **H**andler which is an Android-based application that would help you optimize and schedule your ever-busy and messy calendar. Leveraging new technologies such as LLM and NLP, we hope that EDITH will be able to transform and improve efficiency throughout lives. I am also learning **Java - Kotlin**, **C** & **C++** while developing projects. 
 
