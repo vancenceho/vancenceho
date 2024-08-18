@@ -7,7 +7,7 @@
 
 🎓 I am Vancence, an aspiring **Software Engineer** (specializing in **Artificial Intelligence**) who is currently seeking a summer tech internship! I currently pursuing my Bachelor's in **Computer Science & Design** with a Minor in **Artificial Intelligence** and a Specialization in **Software Engineering** at the **Singapore University of Technology & Design (SUTD)** looking to graduate in mid-2026. 
 
-🔭 I enjoy building projects as well as contributing to my team as a team player. Currently, as part of a module, I am working on EDITH a.k.a **E**vents & **D**eadline **I**ntelligent **T**ask **H**andler which is an Android-based application that would help you optimize and schedule your ever-busy and messy calendar. Leveraging new technologies such as LLM and NLP, we hope that EDITH will be able to transform and improve efficiency throughout lives. I am also learning **Java - Kotlin**, **C** & **C++** while developing projects. 
+🔭 I enjoy building projects as well as contributing to my team as a team player. Currently, together with my partner, I am working on **_HORIZON_** which is an Android-based mobile application that would automatically schedule and optimise our ever-busy calendars. Leveraging new technologies such as LLM and NLP, I hope that **_HORIZON_** will be able to transform and improve efficiency throughout lives. Additionally, I am also learning **GoLang**, **ReactJS**, and **React Native** while developing some personal projects of mine.
 
 🤿 Outside of studying and tech, I enjoy exploring the unknown which is why my hobbies range from doing sports to hiking, and diving. Recently, because of the experience I had with diving, I took up a position in my school's diving club, **SUTDiving**, Executive Committee (EXCO) where I was a Treasurer, with my EXCOs we plan dive trips locally and abroad for the student body to broaden their knowledge on marine life as well as explore the depths beneath the waves. 
 
@@ -22,28 +22,38 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 ### Front-End Development
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend-as-a-Service (BaaS)
 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Software-as-a-Service (SaaS)
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Tools 
 
