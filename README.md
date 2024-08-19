@@ -2,6 +2,7 @@
 **vancenceho/vancenceho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+![gif](https://github.com/user-attachments/assets/948516c9-e860-44cd-9765-2779589179a8)
 
 ## 🚀 About Me
 
