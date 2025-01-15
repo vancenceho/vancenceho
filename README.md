@@ -1,21 +1,22 @@
 <!--
 **vancenceho/vancenceho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ![gif](https://github.com/user-attachments/assets/948516c9-e860-44cd-9765-2779589179a8)
 
 ## 🚀 About Me
 
-🎓 I am Vancence, an aspiring **Software Engineer** (specializing in **Artificial Intelligence**) who is currently seeking a summer tech internship! I currently pursuing my Bachelor's in **Computer Science & Design** with a Minor in **Artificial Intelligence** and a Specialization in **Software Engineering** at the **Singapore University of Technology & Design (SUTD)** looking to graduate in mid-2026. 
+🎓 I am Vancence, an aspiring **Software Engineer** (specializing in **Artificial Intelligence**) who is currently seeking a summer tech internship! I currently pursuing my Bachelor's in **Computer Science & Design** with a Minor in **Artificial Intelligence** and a Specialization in **Software Engineering** at the **Singapore University of Technology & Design (SUTD)** looking to graduate in mid-2026.
 
-🔭 I enjoy building projects as well as contributing to my team as a team player. Currently, together with my partner, I am working on **_HORIZON_** which is an Android-based mobile application that would automatically schedule and optimise our ever-busy calendars. Leveraging new technologies such as LLM and NLP, I hope that **_HORIZON_** will be able to transform and improve efficiency throughout lives. Additionally, I am also learning **GoLang**, **ReactJS**, and **React Native** while developing some personal projects of mine.
+🔭 I enjoy building projects as well as contributing to my team as a team player. Currently, together with my partner, I am working on **_HORIZON_** which is an Android-based mobile application that would automatically schedule and optimise our ever-busy calendars. Leveraging new technologies such as LLM and NLP, I hope that **_HORIZON_** will be able to transform and improve efficiency throughout lives. Additionally, I am also learning **GoLang**, **TypeScript**, and **ReactJS** while developing some personal projects of mine.
 
-🤿 Outside of studying and tech, I enjoy exploring the unknown which is why my hobbies range from doing sports to hiking, and diving. Recently, because of the experience I had with diving, I took up a position in my school's diving club, **SUTDiving**, Executive Committee (EXCO) where I was a Treasurer, with my EXCOs we plan dive trips locally and abroad for the student body to broaden their knowledge on marine life as well as explore the depths beneath the waves. 
+🤿 Outside of studying and tech, I enjoy exploring the unknown which is why my hobbies range from doing sports to hiking, and diving. Recently, because of the experience I had with diving, I took up a position in my school's diving club, **SUTDiving**, Executive Committee (EXCO) where I was a Treasurer, with my EXCOs we plan dive trips locally and abroad for the student body to broaden their knowledge on marine life as well as explore the depths beneath the waves. Recently, as part of our dive trips we were able to dive at Tioman Island, Malayisa, where I obtained both my **PADI Open Water Diver Certification (_OWC_)** and **PADI Advanced Open Water Scuba Diver Certification (_AOW_)**. As part of a personal trip, I was recently in Bali, Indonesia where I dived at some popular dive sites such as _Manta Point_, _Crystal Bay_, and _USAT Liberty Wreck_!!
 
-📚 I also love reading the news and books on startups, business, and financial literacy. My favorite ones include **Zero To One** by _Blake Masters_ and _Peter Thiel_ which talks about the future of startups and **The Smart Investor** by _Benjamin Graham_ which teaches one how to make informed financial decisions. 
+📚 I also love reading the news and books on startups, business, and financial literacy. My favorite ones include **Zero To One** by _Blake Masters_ and _Peter Thiel_ which talks about the future of startups and **The Smart Investor** by _Benjamin Graham_ which teaches one how to make informed financial decisions.
 
-✈️ I love traveling too. I was fortunate enough to be given the opportunity to participate in a summer exchange held during 2023 where I went exchanged at **Yonsei University** in Seoul, South Korea. Additionally, I also participated in the **Freshmore Asian Cross-curricular Trip (FACT)** to Changchun, China during Fall, 2023. Lastly, as part of my dive trips, I was able to dive at Tioman Island, Malaysia together with my friends. 
+✈️ I love traveling too. I was fortunate enough to be given the opportunity to go on exchange as part of **SUTD's Global Exchange Programme (_GEXP_)** during Spring of 2025 to the **University of Waterloo** in Ontario, Canada where I spent 14 weeks taking modules which I found interesting and crucial for my personal development. Additionally, I also went on a summer exchange during 2023 at **Yonsei University**, where I spent about 2 months exploring the bustling city of Seoul, South Korea. Lastly, I also participated in the **Freshmore Asian Cross-curricular Trip (FACT)** to Changchun, China during Fall 2023.
 
 ## 🛠️ Skills
 
@@ -23,6 +24,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -35,6 +37,7 @@
 ### Front-End Development
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -57,7 +60,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### Tools 
+### Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -76,6 +79,7 @@
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/vancenceho)
 
 ## 📈 Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vancenceho&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58" width="450" height="180" alt="vancenceho"/>
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vancenceho&theme=dark" alt="vancenceho" width="250" height="200"/> -->
