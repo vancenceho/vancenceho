@@ -2,9 +2,16 @@
 **vancenceho/vancenceho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi there! I'm Vancence! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-![gif](https://github.com/user-attachments/assets/948516c9-e860-44cd-9765-2779589179a8)
+<!--![gif](https://github.com/user-attachments/assets/948516c9-e860-44cd-9765-2779589179a8)
+-->
+
+&nbsp;
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=1000&size=30&duration=2000&pause=1000&color=FFF8E7&width=435&lines=Software+Engineer+%F0%9F%92%A1;Backend+Developer+%E2%99%BE%EF%B8%8F;Adrenaline+Junkie+%F0%9F%8F%94%EF%B8%8F;Snowboard+Freak+%F0%9F%8F%82%F0%9F%8F%BB)](https://git.io/typing-svg)
+
+&nbsp;
 
 ## 🚀 About Me
 
