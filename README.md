@@ -85,8 +85,12 @@
 
 ## 📈 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vancenceho&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58" width="450" height="180" alt="vancenceho"/>
+<a href="https://github.com/vancenceho/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=vancenceho&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58&commits_year=2025" alt="vancenceho"/>
+</a>
+<a href="https://github.com/vancenceho/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark" />
+</a>
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vancenceho&theme=dark" alt="vancenceho" width="250" height="200"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark" width="380" height="180">
-</p>
+
+##
