@@ -80,7 +80,7 @@
 
 [![Misc](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/vancenceho)
 [![Misc](https://skillicons.dev/icons?i=github)](https://github.com/vancenceho)
-[![Misc](https://go-skill-icons.vercel.app/api/icons?i=outlook)](mailto:vancence_ho@mymail.sutd.edu.sg)
+[![Misc](https://go-skill-icons.vercel.app/api/icons?i=outlook&theme=dark)](mailto:vancence_ho@mymail.sutd.edu.sg)
 [![Misc](https://skillicons.dev/icons?i=gmail)](mailto:vancenceho@gmail.com)
 [![Misc](https://skillicons.dev/icons?i=devto)](https://dev.to/vancenceho)
 
