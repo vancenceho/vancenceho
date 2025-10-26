@@ -78,10 +78,16 @@
 
 ## 🔗 Links
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/vancenceho)
+[![Misc](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/vancenceho)
+[![Misc](https://skillicons.dev/icons?i=github)](https://github.com/vancenceho)
+[![Misc](https://go-skill-icons.vercel.app/api/icons?i=outlook)](mailto:vancence_ho@mymail.sutd.edu.sg)
+[![Misc](https://skillicons.dev/icons?i=gmail)](mailto:vancenceho@gmail.com)
+[![Misc](https://skillicons.dev/icons?i=devto)](https://dev.to/vancenceho)
+
+<!--[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/vancenceho)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vancenceho)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vancence_ho@mymail.sutd.edu.sg)
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/vancenceho)
+[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/vancenceho) -->
 
 ## 📈 Stats
 
