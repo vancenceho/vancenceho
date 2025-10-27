@@ -99,7 +99,7 @@
 </a>
 
 <a href="">
-  <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vancenceho&theme=dark" alt="vancenceho"/>
+  <img height="200" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vancenceho&theme=dark" alt="vancenceho"/>
 </a>
 
 ##
