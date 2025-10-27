@@ -92,13 +92,16 @@
 ## 📈 Stats
 
 <a href="https://github.com/vancenceho/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=vancenceho&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58&commits_year=2025&card_width=320" alt="vancenceho"/>
-</a>
-<a href="https://github.com/vancenceho/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&card_width=320" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=vancenceho&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58&commits_year=2025" alt="vancenceho"/>
 </a>
 <a href="https://git.io/streak-stats">
   <img height="200" src="https://streak-stats.demolab.com?user=vancenceho&theme=codestackr&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" />
+</a>
+<a>
+  <img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vancenceho&theme=2077" alt="Most Commit Language" />
+</a>
+<a href="https://github.com/vancenceho/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&card_width=320" />
 </a>
 
 <!-- <a href="">
