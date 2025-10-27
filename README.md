@@ -98,6 +98,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&card_width=320" />
 </a>
 
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vancenceho&theme=dark" alt="vancenceho" width="250" height="200"/> -->
+<a href="">
+  <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vancenceho&theme=dark" alt="vancenceho"/>
+</a>
 
 ##
