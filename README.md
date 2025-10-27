@@ -125,3 +125,7 @@
 </a> -->
 
 ##
+
+![Snake animation](https://github.com/vancenceho/vancenceho/blob/output/github-contribution-grid-snake.svg)
+
+##
