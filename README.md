@@ -97,7 +97,7 @@
        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=vancenceho&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58&commits_year=2025&hide_border=true" alt="vancenceho"/>
     </td>
     <td>
-        <img height="200" src="https://streak-stats.demolab.com?user=vancenceho&theme=codestackr&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true&hide_border=true&card_width=320" alt="GitHub Streak" />
+        <img height="200" align="center" src="https://streak-stats.demolab.com?user=vancenceho&theme=codestackr&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
