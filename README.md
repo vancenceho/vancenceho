@@ -102,10 +102,10 @@
   </tr>
   <tr>
     <td>
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&hide_border=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&hide_border=true" />
     </td>
     <td>
-       <img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vancenceho&theme=codeSTACKr&card_width=320 alt="Most Commit Language" />
+       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vancenceho&theme=codeSTACKr&card_width=320 alt="Most Commit Language" />
     </td>
   </tr>
 </table>
