@@ -9,7 +9,7 @@
 
 &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=1000&size=30&duration=2000&pause=1000&color=FFF8E7&width=435&lines=Software+Engineer+%F0%9F%92%A1;Backend+Developer+%E2%99%BE%EF%B8%8F;Adrenaline+Junkie+%F0%9F%8F%94%EF%B8%8F;Snowboard+Freak+%F0%9F%8F%82%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=1000&size=30&duration=1500&pause=800&color=FFF8E7&width=435&lines=Software+Engineer+%F0%9F%92%A1;Backend+Developer+%E2%99%BE%EF%B8%8F;Adrenaline+Junkie+%F0%9F%8F%94%EF%B8%8F;Snowboard+Freak+%F0%9F%8F%82%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
