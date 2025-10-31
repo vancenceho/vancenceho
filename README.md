@@ -102,10 +102,10 @@
   </tr>
   <tr>
     <td>
-      <img height="200" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&hide_border=true" />
+      <img height="200" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&hide_border=true" alt="Most Used Languages"/>
     </td>
     <td>
-       <img height="200" width="100%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=codeSTACKr" alt="Repos Per Language" />
+       <img height="200" width="100%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=codeSTACKr" alt="Repos Per Language" />
     </td>
   </tr>
 </table>
