@@ -105,7 +105,7 @@
       <img height="200" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&hide_border=true" />
     </td>
     <td>
-       <img height="200" width="100%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=codeSTACKr&card_width=450 alt="Most Commit Language" />
+       <img height="200" width="100%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=codeSTACKr" alt="Repos Per Language" />
     </td>
   </tr>
 </table>
