@@ -13,6 +13,8 @@
 
 ## 🚀 About Me
 
+<div align="justify">
+
 🎓 I am Vancence, an aspiring **Software Engineer** (specializing in **Artificial Intelligence**) who is currently seeking a spring tech internship! I currently pursuing my Bachelor's in **Computer Science & Design** with a Minor in **Artificial Intelligence** and a Specialization in **Software Engineering** at the **Singapore University of Technology & Design (SUTD)** looking to graduate in mid-2026.
 
 🔭 I enjoy building projects as well as contributing to my team as a team player. Currently, together with my team, we are working on a solution which target **Gen-Z** university students who often experience emotional and psychological barriers which results in a decrease in productivity, our goal is to develop a system that provides personalized and low-friction interventions to build habits, momentum and reduce these barriers so that they are able to start somewhere and sustain the progress. Another project which me and my partner was working on till recently was **_HORIZON_** which is an Android-based mobile application that would automatically schedule and optimise our ever-busy calendars. Leveraging new technologies such as LLM and NLP, I hope that **_HORIZON_** will be able to transform and improve efficiency throughout lives. Additionally, I am also learning **SQL**, **TypeScript**, and **GoLang** while developing some personal projects of mine.
@@ -22,6 +24,8 @@
 📚 I also love reading the news and books on startups, business, and financial literacy. My favorite ones include **Zero To One** by _Blake Masters_ and _Peter Thiel_ which talks about the future of startups and **The Smart Investor** by _Benjamin Graham_ which teaches one how to make informed financial decisions.
 
 ✈️ I love traveling too. I was fortunate enough to be given the opportunity to go on exchange as part of **SUTD's Global Exchange Programme (_GEXP_)** during Spring of 2025 to the **University of Waterloo** in Ontario, Canada where I spent 14 weeks taking modules which I found interesting and crucial for my personal development. Additionally, I also went on a summer exchange during 2023 at **Yonsei University**, where I spent about 2 months exploring the bustling city of Seoul, South Korea. Lastly, I also participated in the **Freshmore Asian Cross-curricular Trip (FACT)** to Changchun, China during Fall 2023.
+
+</div>
 
 ## 🛠️ Skills
 
