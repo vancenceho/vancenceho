@@ -102,7 +102,7 @@
   </tr>
   <tr>
     <td>
-       <img height="200" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&hide_border=true" alt="Most Used Languages"/>
+        <img height="200" align="center" style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&hide_border=true&card_width=445" alt="Most Used Languages"/>
     </td>
     <td>
        <img height="200" width="100%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=codeSTACKr" alt="Repos Per Language" />
