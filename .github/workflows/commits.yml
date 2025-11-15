@@ -41,7 +41,7 @@ jobs:
             - name: Sync master changes back to main
               if: always()
               run: |
-                  git fetch origin master:master
+                  git fetch origin main:main
                   git checkout main
-                  git merge master --ff-only
+                  git merge main --ff-only
                   git push origin main
