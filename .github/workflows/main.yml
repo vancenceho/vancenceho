@@ -77,9 +77,20 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git fetch origin
+          
+          # Get the latest main in case there were updates during workflow
           git checkout main
-          git reset --hard origin/master
-          git push -f origin main
+          git reset --hard origin/main
+          
+          # Merge changes from master (GADPP updates)
+          git merge origin/master --no-ff -m "chore: update profile activities" || {
+            echo "Merge conflict detected, using master version for README"
+            git checkout --theirs README.md
+            git add README.md
+            git commit --no-edit
+          }
+          
+          git push origin main
 
       - name: Restore default branch to main
         if: always()
