@@ -22,13 +22,24 @@ jobs:
                   ref: main
                   token: ${{ secrets.API_TOKEN_GITHUB }}
 
-            - name: Ensure master branch exists and is synced with main
+            - name: Sync main to master
               run: |
                   git config user.name "GitHub Actions"
                   git config user.email "actions@github.com"
                   git fetch origin
                   git checkout -B master
                   git push -f origin master
+
+            - name: Change default branch to master temporarily
+              run: |
+                  curl -L \
+                    -X PATCH \
+                    -H "Accept: application/vnd.github+json" \
+                    -H "Authorization: Bearer ${{ secrets.API_TOKEN_GITHUB }}" \
+                    -H "X-GitHub-Api-Version: 2022-11-28" \
+                    https://api.github.com/repos/${{ github.repository }} \
+                    -d '{"default_branch":"master"}'
+                  sleep 3
 
             - name: Update profile with GADPP
               uses: umutphp/github-action-dynamic-profile-page@v5
@@ -41,7 +52,20 @@ jobs:
             - name: Sync master changes back to main
               if: always()
               run: |
-                  git fetch origin main:main
+                  git config user.name "GitHub Actions"
+                  git config user.email "actions@github.com"
+                  git fetch origin
                   git checkout main
-                  git merge main --ff-only
-                  git push origin main
+                  git reset --hard origin/master
+                  git push -f origin main
+
+            - name: Restore default branch to main
+              if: always()
+              run: |
+                  curl -L \
+                    -X PATCH \
+                    -H "Accept: application/vnd.github+json" \
+                    -H "Authorization: Bearer ${{ secrets.API_TOKEN_GITHUB }}" \
+                    -H "X-GitHub-Api-Version: 2022-11-28" \
+                    https://api.github.com/repos/${{ github.repository }} \
+                    -d '{"default_branch":"main"}'
