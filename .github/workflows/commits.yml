@@ -1,21 +1,48 @@
 name: Update GitHub Profile Page
-on: [push]
+
+on:
+    schedule:
+        - cron: "0 */12 * * *" # Run automatically every 12 hours
+    workflow_dispatch: # Allows manual triggering
+    push: # Runs on every push to the main branch
+        branches:
+            - main
 
 jobs:
-    gadpp_job:
+    update-profile:
+        permissions:
+            contents: write
         runs-on: ubuntu-latest
-        name: Update GitHub Profile Page
+        timeout-minutes: 5
+
         steps:
             - name: Checkout
               uses: actions/checkout@v3
               with:
                   fetch-depth: 0
-            - name: GADPP
+                  ref: main
+                  token: ${{ secrets.API_TOKEN_GITHUB }}
+
+            - name: Create temporary master branch
+              run: |
+                  git config user.name "GitHub Actions"
+                  git config user.email "actions@github.com"
+                  git checkout -B master
+                  git push -f origin master
+
+            - name: Update profile with GADPP
               uses: umutphp/github-action-dynamic-profile-page@v5
-              id: gadpp
               env:
                   API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               with:
                   github-username: "vancenceho"
                   user-email: "vancence_ho@mymail.sutd.edu.sg"
+
+            - name: Sync changes back to main
+              if: always()
+              run: |
+                  git fetch origin
+                  git checkout main
+                  git pull origin master --rebase
+                  git push origin main
+                  git push origin --delete master || true
