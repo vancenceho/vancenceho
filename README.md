@@ -128,7 +128,11 @@
   <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vancenceho&theme=dark" alt="vancenceho"/>
 </a> -->
 
-### Pac-Man Contribution Graph
+### My Recent Activities 💪
+
+<!-- START gadpp -->
+
+### Pac-Man Contribution Graph 👻
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/pacman-contribution-graph-dark.svg">
