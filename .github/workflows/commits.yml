@@ -1,4 +1,4 @@
-name: Update GitHub Profile Page
+name: update gadpp profile page
 
 on:
     schedule:
@@ -14,7 +14,6 @@ jobs:
             contents: write
         runs-on: ubuntu-latest
         timeout-minutes: 5
-
         steps:
             - name: Checkout
               uses: actions/checkout@v3
@@ -23,10 +22,11 @@ jobs:
                   ref: main
                   token: ${{ secrets.API_TOKEN_GITHUB }}
 
-            - name: Create temporary master branch
+            - name: Ensure master branch exists and is synced with main
               run: |
                   git config user.name "GitHub Actions"
                   git config user.email "actions@github.com"
+                  git fetch origin
                   git checkout -B master
                   git push -f origin master
 
@@ -38,11 +38,10 @@ jobs:
                   github-username: "vancenceho"
                   user-email: "vancence_ho@mymail.sutd.edu.sg"
 
-            - name: Sync changes back to main
+            - name: Sync master changes back to main
               if: always()
               run: |
-                  git fetch origin
+                  git fetch origin master:master
                   git checkout main
-                  git pull origin master --rebase
+                  git merge master --ff-only
                   git push origin main
-                  git push origin --delete master || true
