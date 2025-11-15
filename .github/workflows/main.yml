@@ -4,6 +4,9 @@ on:
   schedule: # Run automatically every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch: # Allows manual triggering
+  push: # Runs on every push to the main branch
+    branches:
+      - main
 
 jobs:
   generate:
@@ -28,6 +31,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   update-profile:
+    if: github.event_name != 'push' # Skip on push to prevent infinite loop
     permissions:
       contents: write
     runs-on: ubuntu-latest
