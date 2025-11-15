@@ -1,5 +1,4 @@
 <!--
-**vancenceho/vancenceho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 # Hi there! I'm Vancence! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
@@ -131,13 +130,11 @@
 ### My Recent Activities 💪
 
 <!-- START gadpp -->
+- vancenceho/vancenceho, [refs/heads/main@036e049f4810dcea86bf82029c4177b5a35a4e0a](https://github.com/vancenceho/vancenceho/commit/036e049f4810dcea86bf82029c4177b5a35a4e0a)
 
 ### Pac-Man Contribution Graph 👻
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vancenceho/vancenceho/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
