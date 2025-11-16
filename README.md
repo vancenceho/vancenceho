@@ -130,12 +130,16 @@
 ### My Recent Activities 💪
 
 <!-- START gadpp -->
-- vancenceho/vancenceho, [refs/heads/main@37b0574f9fabee7e2e1b34c193c6e1ef0b925050](https://github.com/vancenceho/vancenceho/commit/37b0574f9fabee7e2e1b34c193c6e1ef0b925050)
 
+- vancenceho/vancenceho, [refs/heads/main@37b0574f9fabee7e2e1b34c193c6e1ef0b925050](https://github.com/vancenceho/vancenceho/commit/37b0574f9fabee7e2e1b34c193c6e1ef0b925050)
+<!-- END gadpp -->
 
 ### Pac-Man Contribution Graph 👻
 
 <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vancenceho/vancenceho/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
