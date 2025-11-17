@@ -78,16 +78,27 @@ jobs:
           git config user.email "actions@github.com"
           git fetch origin
 
-          # Get the latest main in case there were updates during workflow
+          # Save the Pac-Man section from main before merge
           git checkout main
-          git reset --hard origin/main
+          git show origin/main:README.md > /tmp/main_readme.md
 
-          # Merge changes from master (GADPP updates)
+          # Try to merge master (with GADPP updates)
           git merge origin/master --no-ff -m "chore: update profile activities" || {
-            echo "Merge conflict detected, using master version for README"
-            git checkout --theirs README.md
+            echo "Merge conflict detected, resolving..."
+            git merge --abort
+            
+            # Checkout master's README (has GADPP updates)
+            git checkout origin/master -- README.md
+            
+            # Restore Pac-Man section from main's version if it's missing
+            if ! grep -q "pacman-contribution-graph" README.md; then
+              echo "Restoring Pac-Man graph section..."
+              # Extract Pac-Man section from saved main README
+              awk '/### Pac-Man Contribution Graph/,/^---$/ {print; if (/^---$/) exit}' /tmp/main_readme.md >> README.md
+            fi
+            
             git add README.md
-            git commit --no-edit
+            git commit -m "chore: update profile activities"
           }
 
           git push origin main
