@@ -127,19 +127,16 @@
   <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vancenceho&theme=dark" alt="vancenceho"/>
 </a> -->
 
-### My Recent Activities 💪
+### Pac-Man Contribution Graph 👻
 
-<!-- START gadpp -->
-- vancenceho/vancenceho, [refs/heads/main@679caac8ae63672746e5b8e37d9acd33632f4e2a](https://github.com/vancenceho/vancenceho/commit/679caac8ae63672746e5b8e37d9acd33632f4e2a)
-
-
-<!-- END gadpp -->
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vancenceho/vancenceho/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
 Do you wanna make your own? Check out [abozanona/pacman-contribution-game](https://github.com/abozanona/pacman-contribution-graph?tab=readme-ov-file)!
 
 ---
-
-### Pac-Man Contribution Graph 👻
