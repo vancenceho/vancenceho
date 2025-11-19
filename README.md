@@ -135,13 +135,11 @@
 
 <!-- END gadpp -->
 
-### Pac-Man Contribution Graph 👻
-
-<picture>
-</picture>
 
 ---
 
 Do you wanna make your own? Check out [abozanona/pacman-contribution-game](https://github.com/abozanona/pacman-contribution-graph?tab=readme-ov-file)!
 
 ---
+
+### Pac-Man Contribution Graph 👻
