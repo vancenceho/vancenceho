@@ -78,28 +78,34 @@ jobs:
           git config user.email "actions@github.com"
           git fetch origin
 
-          # Save the Pac-Man section from main before merge
+          # Save the Pac-Man section from main before any changes
           git checkout main
           git show origin/main:README.md > /tmp/main_readme.md
+          awk '/### Pac-Man Contribution Graph/,/^$/{if(/^$/&&!f){f=1}else{print}}' /tmp/main_readme.md > /tmp/pacman_section.md
 
           # Try to merge master (with GADPP updates)
           git merge origin/master --no-ff -m "chore: update profile activities" || {
             echo "Merge conflict detected, resolving..."
             git merge --abort
-            
-            # Checkout master's README (has GADPP updates)
             git checkout origin/master -- README.md
-            
-            # Restore Pac-Man section from main's version if it's missing
-            if ! grep -q "pacman-contribution-graph" README.md; then
-              echo "Restoring Pac-Man graph section..."
-              # Extract Pac-Man section from saved main README
-              awk '/### Pac-Man Contribution Graph/,/^---$/ {print; if (/^---$/) exit}' /tmp/main_readme.md >> README.md
-            fi
-            
             git add README.md
             git commit -m "chore: update profile activities"
           }
+
+          # ALWAYS check if Pac-Man images are present after merge (conflict or not)
+          if ! grep -q 'srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/pacman-contribution-graph' README.md; then
+            echo "Pac-Man graph images missing, restoring..."
+            
+            # Remove empty Pac-Man section if it exists
+            sed -i.bak '/### Pac-Man Contribution Graph/,/<\/picture>/d' README.md
+            
+            # Add back the full Pac-Man section from the saved version
+            echo "" >> README.md
+            cat /tmp/pacman_section.md >> README.md
+            
+            git add README.md
+            git commit -m "chore: restore Pac-Man contribution graph"
+          fi
 
           git push origin main
 
