@@ -8,10 +8,23 @@
 
 &nbsp;
 
-![Typing SVG Light](https://readme-typing-svg.demolab.com?font=Arial&weight=1000&size=30&duration=1500&pause=800&color=1E1E2E&background=FFFFFF&width=435&lines=Software+Engineer+%F0%9F%92%A1;Backend+Developer+%E2%99%BE%EF%B8%8F;Adrenaline+Junkie+%F0%9F%8F%94%EF%B8%8F;Snowboard+Freak+%F0%9F%8F%82%F0%9F%8F%BB#gh-light-mode-only)
-
-![Typing SVG Dark](https://readme-typing-svg.demolab.com?font=Arial&weight=1000&size=30&duration=1500&pause=800&color=FFF8E7&width=435&lines=Software+Engineer+%F0%9F%92%A1;Backend+Developer+%E2%99%BE%EF%B8%8F;Adrenaline+Junkie+%F0%9F%8F%94%EF%B8%8F;Snowboard+Freak+%F0%9F%8F%82%F0%9F%8F%BB#gh-dark-mode-only)
-
+<picture>
+  <!-- Dark mode version -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=1000&size=30&duration=1500&pause=800&color=FFF8E7&width=435&lines=Software+Engineer+%F0%9F%92%A1;Backend+Developer+%E2%99%BE%EF%B8%8F;Adrenaline+Junkie+%F0%9F%8F%94%EF%B8%8F;Snowboard+Freak+%F0%9F%8F%82%F0%9F%8F%BB"
+  />
+  <!-- Light mode version (fallback + explicit light) -->
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=1000&size=30&duration=1500&pause=800&color=1E1E2E&background=FFFFFF&width=435&lines=Software+Engineer+%F0%9F%92%A1;Backend+Developer+%E2%99%BE%EF%B8%8F;Adrenaline+Junkie+%F0%9F%8F%94%EF%B8%8F;Snowboard+Freak+%F0%9F%8F%82%F0%9F%8F%BB"
+  />
+  <!-- Fallback <img> (used by clients that ignore <source>) -->
+  <img
+    alt="Typing roles"
+    src="https://readme-typing-svg.demolab.com?font=Arial&weight=1000&size=30&duration=1500&pause=800&color=1E1E2E&background=FFFFFF&width=435&lines=Software+Engineer+%F0%9F%92%A1;Backend+Developer+%E2%99%BE%EF%B8%8F;Adrenaline+Junkie+%F0%9F%8F%94%EF%B8%8F;Snowboard+Freak+%F0%9F%8F%82%F0%9F%8F%BB"
+  />
+</picture>
 
 ## 🚀 About Me
 
