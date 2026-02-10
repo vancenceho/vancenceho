@@ -124,18 +124,87 @@
 <table>
   <tr>
     <td>
-       <img height="200" align="center" src="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58&hide_border=true&count_private=true&commits_year=2025" alt="vancenceho"/>
+      <picture>
+        <!-- Dark Mode -->
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58&hide_border=true&count_private=true&commits_year=2025"
+        />
+        <!-- Light Mode -->
+        <source
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          srcset="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=swift&rank_icon=github&ring_color=F05138&hide_border=true&count_private=true&commits_year=2025"
+        />
+        <img 
+          height="200" 
+          align="center"
+          alt="vancenceho"
+          src="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=swift&rank_icon=github&ring_color=F05138&hide_border=true&count_private=true&commits_year=2025"
+        />
+      </picture>
     </td>
     <td>
-        <img height="200" align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=vancenceho&theme=codestackr&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" />
+      <picture>
+        <!-- Dark Mode -->
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-streak-stats-eight.vercel.app/?user=vancenceho&theme=codestackr&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true"
+        />
+        <!-- Light Mode -->
+        <source
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          srcset="https://github-readme-streak-stats-eight.vercel.app/?user=vancenceho&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true"
+        />
+        <img 
+          height="200" 
+          align="center"
+          alt="GitHub Streak" 
+          src="https://github-readme-streak-stats-eight.vercel.app/?user=vancenceho&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true"
+        />
+      </picture>
     </td>
   </tr>
   <tr>
     <td>
-        <img height="200" align="center" style="width: 100%;" src="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&hide_border=true&card_width=445" alt="Most Used Languages"/>
+      <picture>
+        <!-- Dark Mode -->
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&hide_border=true&card_width=445"
+        />
+        <!-- Light Mode -->
+        <source 
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          srcset="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=graywhite&langs_count=8&hide_border=true&card_width=445"
+        />
+        <img 
+          height="200" 
+          align="center" 
+          style="width: 100%;"
+          alt="Most Used Languages"
+          src="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=graywhite&langs_count=8&hide_border=true&card_width=445" 
+        />
+      </picture>
     </td>
     <td>
-       <img height="200" align="center" style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=codeSTACKr" alt="Repos Per Language" />
+      <picture>
+        <!-- Dark Mode -->
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=codeSTACKr"
+        />
+        <!-- Light Mode -->
+        <source
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=swift"
+        />
+       <img 
+          height="200" 
+          align="center" 
+          style="width: 100%;" 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=swift" alt="Repos Per Language" 
+        />
+      </picture>
     </td>
   </tr>
 </table>
