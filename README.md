@@ -128,18 +128,18 @@
         <!-- Dark Mode -->
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58&hide_border=true&count_private=true&commits_year=2025"
+          srcset="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58&hide_border=true&count_private=true&commits_year=2026"
         />
         <!-- Light Mode -->
         <source
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=swift&rank_icon=github&ring_color=F05138&hide_border=true&count_private=true&commits_year=2025"
+          srcset="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=swift&rank_icon=github&ring_color=F05138&hide_border=true&count_private=true&commits_year=2026"
         />
         <img 
           height="200" 
           align="center"
           alt="vancenceho"
-          src="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=swift&rank_icon=github&ring_color=F05138&hide_border=true&count_private=true&commits_year=2025"
+          src="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=swift&rank_icon=github&ring_color=F05138&hide_border=true&count_private=true&commits_year=2026"
         />
       </picture>
     </td>
