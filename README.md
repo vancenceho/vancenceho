@@ -30,11 +30,11 @@
 
 <div align="justify">
 
-🎓 I am Vancence, an aspiring **Software Engineer** (specializing in **Artificial Intelligence**) who is currently seeking a spring tech internship! I currently pursuing my Bachelor's in **Computer Science & Design** with a Minor in **Artificial Intelligence** and a Specialization in **Software Engineering** at the **Singapore University of Technology & Design (SUTD)** looking to graduate in mid-2026.
+🎓 I am Vancence, an aspiring **Software Engineer** who is seeking and open to full-time roles, currently pursuing my Bachelor's in **Computer Science & Design** with a Minor in **Artificial Intelligence** and Specialization in both **Software Engineering (SWE) & Data Analytics (DA)** at the **Singapore University of Technology & Design (SUTD)** looking to graduate in mid-2026.
 
-🔭 I enjoy building projects as well as contributing to my team as a team player. Currently, together with my team, we are working on a solution which target **Gen-Z** university students who often experience emotional and psychological barriers which results in a decrease in productivity, our goal is to develop a system that provides personalized and low-friction interventions to build habits, momentum and reduce these barriers so that they are able to start somewhere and sustain the progress. Another project which me and my partner was working on till recently was **_HORIZON_** which is an Android-based mobile application that would automatically schedule and optimise our ever-busy calendars. Leveraging new technologies such as LLM and NLP, I hope that **_HORIZON_** will be able to transform and improve efficiency throughout lives. Additionally, I am also learning **SQL**, **TypeScript**, and **GoLang** while developing some personal projects of mine.
+🔭 I enjoy building projects as well as contributing to my team as a team player. Currently, as part of my capstone objective, together with my team, we are working on **_REELFOCUS_**, a solution which targets **Gen-Z** university students who often experience emotional and psychological barriers which results in a decrease in productivity, our goal is to develop a system that provides personalized and low-friction interventions to build habits, momentum and reduce these barriers so that they are able to start somewhere and sustain the progress. Another project which me and my partner was working on till recently was **_HORIZON_** which is an Android-based mobile application that would automatically schedule and optimise our ever-busy calendars. Leveraging new technologies such as LLM and NLP, I hope that **_HORIZON_** will be able to transform and improve efficiency throughout lives. Additionally, I also enjoy exploring new stuff, I am currently picking up **GoLang** and **SQL** as well as **Terraform** and **Databricks** while developing some personal projects of mine.
 
-🤿 Outside of studying and tech, I enjoy exploring the unknown which is why my hobbies range from doing sports to hiking, and diving. Recently, because of the experience I had with diving, I took up a position in my school's diving club, **SUTDiving**, Executive Committee (EXCO) where I was a Treasurer, with my EXCOs we plan dive trips locally and abroad for the student body to broaden their knowledge on marine life as well as explore the depths beneath the waves. Recently, as part of our dive trips we were able to dive at Tioman Island, Malayisa, where I obtained both my **PADI Open Water Diver Certification (_OWC_)** and **PADI Advanced Open Water Scuba Diver Certification (_AOW_)**. As part of a personal trip, I was recently in Bali, Indonesia where I dived at some popular dive sites such as _Manta Point_, _Crystal Bay_, and _USAT Liberty Wreck_!!
+🤿 Outside of studying and tech, I enjoy exploring the unknown and my friends usually label me as adventurous and _"outdoorsy"_ kinda person which is why I am nicknamed the _"mountain goat"_,my hobbies range from doing sports such as scuba diving and snowboarding to hiking. Recently, because of the experience I had with diving, I took up a position in my school's diving club, **SUTDiving**, Executive Committee (EXCO) where I was a Treasurer. With my EXCOs we plan dive trips locally and abroad for the student body to broaden their knowledge on marine life as well as explore the depths beneath the waves. Recently, as part of our dive trips we were able to dive at Tioman Island, Malaysia, where I obtained both my **PADI Open Water Diver Certification (_OWC_)** and **PADI Advanced Open Water Scuba Diver Certification (_AOW_)**. As part of a personal trip, I was recently in Bali, Indonesia where I dived at some popular dive sites such as _Manta Point_, _Crystal Bay_, and _USAT Liberty Wreck_!!
 
 📚 I also love reading the news and books on startups, business, and financial literacy. My favorite ones include **Zero To One** by _Blake Masters_ and _Peter Thiel_ which talks about the future of startups and **The Smart Investor** by _Benjamin Graham_ which teaches one how to make informed financial decisions.
 
@@ -56,7 +56,6 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
-
 ### Frontend Development
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -76,9 +75,9 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### Infrastructure-as-Code (IaC)
+
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-%23F7DF1E?style=for-the-badge&logo=opentofu&logoColor=111111)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
 
 ### Software-as-a-Service (SaaS)
 
@@ -90,10 +89,10 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Build & CI/CD
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
 
 ### Tools
 
