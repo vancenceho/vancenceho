@@ -230,14 +230,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=oiliver-spill&theme=dark&hide_border=false&border_color=30363d" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=oiliver-spill&theme=swift&hide_border=false&border_color=e4e2e2" />
-    <img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=oiliver-spill&theme=swift&hide_border=false&border_color=e4e2e2" alt="oiliver-spill" />
+    <img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=oiliver-spill&theme=swift&hide_border=false&border_color=e4e2e2" alt="oiliver-spill" border="0" />
   </picture>
 </a>
 <a href="https://github.com/vancenceho/unix-cseshell" style="text-decoration: none">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=dark&hide_border=false&border_color=30363d&description_lines_count=3" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" />
-    <img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" alt="unix-cseshell" />
+    <img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" alt="unix-cseshell" border="0" />
   </picture>
 </a>
 
@@ -246,14 +246,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=dark&hide_border=false&border_color=30363d&description_lines_count=3" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" />
-    <img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" alt="project-edith" />
+    <img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" alt="project-edith" border="0" />
   </picture>
 </a>
 <a href="https://github.com/vancenceho/3dc-csd-gexp-mapper" style="text-decoration: none">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=3dc-csd-gexp-mapper&theme=dark&hide_border=false&border_color=30363d" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=3dc-csd-gexp-mapper&theme=swift&hide_border=false&border_color=e4e2e2" />
-    <img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=3dc-csd-gexp-mapper&theme=swift&hide_border=false&border_color=e4e2e2" alt="3dc-csd-gexp-mapper" />
+    <img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=3dc-csd-gexp-mapper&theme=swift&hide_border=false&border_color=e4e2e2" alt="3dc-csd-gexp-mapper" border="0" />
   </picture>
 </a>
 
@@ -262,14 +262,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=dark&hide_border=false&border_color=30363d&description_lines_count=3" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" />
-    <img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" alt="simple-rag-app" />
+    <img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" alt="simple-rag-app" border="0" />
   </picture>
 </a>
 <a href="https://github.com/vancenceho/presales-workshop-resource-manager" style="text-decoration: none">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=presales-workshop-resource-manager&theme=dark&hide_border=false&border_color=30363d" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=presales-workshop-resource-manager&theme=swift&hide_border=false&border_color=e4e2e2" />
-    <img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=presales-workshop-resource-manager&theme=swift&hide_border=false&border_color=e4e2e2" alt="presales-workshop-resource-manager" />
+    <img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=presales-workshop-resource-manager&theme=swift&hide_border=false&border_color=e4e2e2" alt="presales-workshop-resource-manager" border="0" />
   </picture>
 </a>
 
