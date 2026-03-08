@@ -226,7 +226,7 @@
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/vancenceho/oiliver-spill">
         <picture>
           <source
@@ -244,7 +244,7 @@
         </picture>
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/vancenceho/unix-cseshell">
         <picture>
           <source
@@ -264,7 +264,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/vancenceho/project-edith">
         <picture>
           <source
@@ -282,7 +282,7 @@
         </picture>
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/vancenceho/3dc-csd-gexp-mapper">
         <picture>
           <source
@@ -302,7 +302,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/vancenceho/simple-rag-app">
         <picture>
           <source
@@ -320,7 +320,7 @@
         </picture>
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/vancenceho/presales-workshop-resource-manager">
         <picture>
           <source
