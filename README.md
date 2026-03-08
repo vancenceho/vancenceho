@@ -224,7 +224,7 @@
 
 ## 📌 Featured Projects
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td>
       <a href="https://github.com/vancenceho/oiliver-spill">
