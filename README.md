@@ -356,5 +356,3 @@
 Do you wanna make your own? Check out [abozanona/pacman-contribution-game](https://github.com/abozanona/pacman-contribution-graph?tab=readme-ov-file)!
 
 ---
-
-[![Readme Card](https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=3dc-csd-gexp-mapper)](https://github.com/anuraghazra/github-readme-stats)
