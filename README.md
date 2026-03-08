@@ -222,7 +222,128 @@
   <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vancenceho&theme=dark" alt="vancenceho"/>
 </a> -->
 
-### Pac-Man Contribution Graph 👻
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/vancenceho/oiliver-spill">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=oiliver-spill&theme=dark&hide_border=true&border_radius=8"
+          />
+          <source
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=oiliver-spill&theme=swift&hide_border=true&border_radius=8"
+          />
+          <img
+            src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=oiliver-spill&theme=swift&hide_border=true&border_radius=8"
+            alt="oiliver-spill"
+          />
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vancenceho/unix-cseshell">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=dark&hide_border=true&border_radius=8"
+          />
+          <source
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshelll&theme=swift&hide_border=true&border_radius=8"
+          />
+          <img
+            src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=swift&hide_border=true&border_radius=8"
+            alt="unix-cseshell"
+          />
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vancenceho/project-edith">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=dark&hide_border=true&border_radius=8"
+          />
+          <source
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=swift&hide_border=true&border_radius=8"
+          />
+          <img
+            src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=swift&hide_border=true&border_radius=8"
+            alt="project-edith"
+          />
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vancenceho/3dc-csd-gexp-mapper">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=3dc-csd-gexp-mapper&theme=dark&hide_border=true&border_radius=8"
+          />
+          <source
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=3dc-csd-gexp-mapper&theme=swift&hide_border=true&border_radius=8"
+          />
+          <img
+            src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=3dc-csd-gexp-mapper&theme=swift&hide_border=true&border_radius=8"
+            alt="3dc-csd-gexp-mapper"
+          />
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vancenceho/simple-rag-app">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=dark&hide_border=true&border_radius=8"
+          />
+          <source
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=swift&hide_border=true&border_radius=8"
+          />
+          <img
+            src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=swift&hide_border=true&border_radius=8"
+            alt="simple-rag-app"
+          />
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vancenceho/presales-workshop-resource-manager">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=presales-workshop-resource-manager&theme=dark&hide_border=true&border_radius=8"
+          />
+          <source
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=presales-workshop-resource-manager&theme=swift&hide_border=true&border_radius=8"
+          />
+          <img
+            src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=presales-workshop-resource-manager&theme=swift&hide_border=true&border_radius=8"
+            alt="dell-presales-workshop-resource-manager"
+          />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 👻 Pac-Man Contribution Graph
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/pacman-contribution-graph-dark.svg">
