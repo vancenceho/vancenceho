@@ -249,14 +249,14 @@
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=dark&hide_border=true&border_radius=8"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=dark&hide_border=true&border_radius=8&description_lines_count=3"
           />
           <source
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshelll&theme=swift&hide_border=true&border_radius=8"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshelll&theme=swift&hide_border=true&border_radius=8&description_lines_count=3"
           />
           <img
-            src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=swift&hide_border=true&border_radius=8"
+            src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=swift&hide_border=true&border_radius=8&description_lines_count=3"
             alt="unix-cseshell"
           />
         </picture>
@@ -269,14 +269,14 @@
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=dark&hide_border=true&border_radius=8"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=dark&hide_border=true&border_radius=8&description_lines_count=3"
           />
           <source
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=swift&hide_border=true&border_radius=8"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=swift&hide_border=true&border_radius=8&description_lines_count=3"
           />
           <img
-            src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=swift&hide_border=true&border_radius=8"
+            src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=swift&hide_border=true&border_radius=8&description_lines_count=3"
             alt="project-edith"
           />
         </picture>
@@ -307,14 +307,14 @@
         <picture>
           <source
             media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=dark&hide_border=true&border_radius=8"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=dark&hide_border=true&border_radius=8&description_lines_count=3"
           />
           <source
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=swift&hide_border=true&border_radius=8"
+            srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=swift&hide_border=true&border_radius=8&description_lines_count=3"
           />
           <img
-            src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=swift&hide_border=true&border_radius=8"
+            src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=swift&hide_border=true&border_radius=8&description_lines_count=3"
             alt="simple-rag-app"
           />
         </picture>
@@ -356,3 +356,5 @@
 Do you wanna make your own? Check out [abozanona/pacman-contribution-game](https://github.com/abozanona/pacman-contribution-graph?tab=readme-ov-file)!
 
 ---
+
+[![Readme Card](https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=3dc-csd-gexp-mapper)](https://github.com/anuraghazra/github-readme-stats)
