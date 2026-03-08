@@ -224,7 +224,20 @@
 
 ## 📌 Featured Projects
 
-<table style="border: none; border-collapse: collapse;">
+<style>
+  table.featured-projects,
+  table.featured-projects td,
+  table.featured-projects th,
+  table.featured-projects tr {
+    border: none !important;
+    border-width: 0 !important;
+  }
+  table.featured-projects {
+    border-collapse: collapse !important;
+  }
+</style>
+
+<table class="featured-projects">
   <tr>
     <td style="border: none;">
       <a href="https://github.com/vancenceho/oiliver-spill">
