@@ -169,19 +169,19 @@
         <!-- Dark Mode -->
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&hide_border=true&card_width=445"
+          srcset="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook&hide_border=true&card_width=445"
         />
         <!-- Light Mode -->
         <source 
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=graywhite&langs_count=8&hide_border=true&card_width=445"
+          srcset="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=graywhite&langs_count=8&hide=jupyter%20notebook&hide_border=true&card_width=445"
         />
         <img 
           height="200" 
           align="center" 
           style="width: 100%;"
           alt="Most Used Languages"
-          src="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=graywhite&langs_count=8&hide_border=true&card_width=445" 
+          src="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=graywhite&langs_count=8&hide=jupyter%20notebook&hide_border=true&card_width=445" 
         />
       </picture>
     </td>
@@ -190,18 +190,18 @@
         <!-- Dark Mode -->
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=codeSTACKr"
+          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=codeSTACKr&exclude=jupyter%20Notebook"
         />
         <!-- Light Mode -->
         <source
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=swift"
+          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=swift&exclude=jupyter&20Notebook"
         />
        <img 
           height="200" 
           align="center" 
           style="width: 100%;" 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=swift" alt="Repos Per Language" 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=swift&exclude=jupyter%20Notebook" alt="Repos Per Language" 
         />
       </picture>
     </td>
