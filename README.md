@@ -127,18 +127,18 @@
         <!-- Dark Mode -->
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58&hide_border=true&count_private=true&commits_year=2026"
+          srcset="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58&hide_border=true&count_private=true&commits_year=2026&v=2"
         />
         <!-- Light Mode -->
         <source
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=swift&rank_icon=github&ring_color=F05138&hide_border=true&count_private=true&commits_year=2026"
+          srcset="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=swift&rank_icon=github&ring_color=F05138&hide_border=true&count_private=true&commits_year=2026&v=2"
         />
         <img 
           height="200" 
           align="center"
           alt="vancenceho"
-          src="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=swift&rank_icon=github&ring_color=F05138&hide_border=true&count_private=true&commits_year=2026"
+          src="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=swift&rank_icon=github&ring_color=F05138&hide_border=true&count_private=true&commits_year=2026&v=2"
         />
       </picture>
     </td>
@@ -147,18 +147,18 @@
         <!-- Dark Mode -->
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-streak-stats-eight.vercel.app/?user=vancenceho&theme=codestackr&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true"
+          srcset="https://github-readme-streak-stats-eight.vercel.app/?user=vancenceho&theme=codestackr&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true&v=2"
         />
         <!-- Light Mode -->
         <source
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://github-readme-streak-stats-eight.vercel.app/?user=vancenceho&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true"
+          srcset="https://github-readme-streak-stats-eight.vercel.app/?user=vancenceho&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true&v=2"
         />
         <img 
           height="200" 
           align="center"
           alt="GitHub Streak" 
-          src="https://github-readme-streak-stats-eight.vercel.app/?user=vancenceho&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true"
+          src="https://github-readme-streak-stats-eight.vercel.app/?user=vancenceho&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true&v=2"
         />
       </picture>
     </td>
@@ -169,19 +169,19 @@
         <!-- Dark Mode -->
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook&hide_border=true&card_width=445"
+          srcset="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook&hide_border=true&card_width=445&v=2"
         />
         <!-- Light Mode -->
         <source 
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=graywhite&langs_count=8&hide=jupyter%20notebook&hide_border=true&card_width=445"
+          srcset="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=graywhite&langs_count=8&hide=jupyter%20notebook&hide_border=true&card_width=445&v=2"
         />
         <img 
           height="200" 
           align="center" 
           style="width: 100%;"
           alt="Most Used Languages"
-          src="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=graywhite&langs_count=8&hide=jupyter%20notebook&hide_border=true&card_width=445" 
+          src="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=graywhite&langs_count=8&hide=jupyter%20notebook&hide_border=true&card_width=445&v=2" 
         />
       </picture>
     </td>
@@ -190,18 +190,18 @@
         <!-- Dark Mode -->
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=codeSTACKr&exclude=jupyter%20Notebook"
+          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=codeSTACKr&exclude=jupyter%20Notebook&v=2"
         />
         <!-- Light Mode -->
         <source
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=swift&exclude=jupyter%20Notebook"
+          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=swift&exclude=jupyter%20Notebook&v=2"
         />
        <img 
           height="200" 
           align="center" 
           style="width: 100%;" 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=swift&exclude=jupyter%20Notebook" alt="Repos Per Language" 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=swift&exclude=jupyter%20Notebook&v=2" alt="Repos Per Language" 
         />
       </picture>
     </td>
@@ -226,16 +226,16 @@
 
 <div align="center">
 <div style="margin: 0">
-<a href="https://github.com/vancenceho/oiliver-spill" style="text-decoration: none"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=oiliver-spill&theme=dark&hide_border=false&border_color=30363d&description_lines_count=3" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=oiliver-spill&theme=swift&hide_border=false&border_color=e4e2e2" /><img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=oiliver-spill&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" alt="oiliver-spill" border="0" width="380" /></picture></a>
-<a href="https://github.com/vancenceho/unix-cseshell" style="text-decoration: none"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=dark&hide_border=false&border_color=30363d&description_lines_count=3" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" /><img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" alt="unix-cseshell" border="0" width="380" /></picture></a>
+<a href="https://github.com/vancenceho/oiliver-spill" style="text-decoration: none"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=oiliver-spill&theme=dark&hide_border=false&border_color=30363d&description_lines_count=3&v=2" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=oiliver-spill&theme=swift&hide_border=false&border_color=e4e2e2&v=2" /><img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=oiliver-spill&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3&v=2" alt="oiliver-spill" border="0" width="380" /></picture></a>
+<a href="https://github.com/vancenceho/unix-cseshell" style="text-decoration: none"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=dark&hide_border=false&border_color=30363d&description_lines_count=3&v=2" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3&v=2" /><img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=unix-cseshell&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3&v=2" alt="unix-cseshell" border="0" width="380" /></picture></a>
 </div>
 <div style="margin: 0">
-<a href="https://github.com/vancenceho/project-edith" style="text-decoration: none"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=dark&hide_border=false&border_color=30363d&description_lines_count=3" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" /><img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" alt="project-edith" border="0" width="380" /></picture></a>
-<a href="https://github.com/vancenceho/3dc-csd-gexp-mapper" style="text-decoration: none"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=3dc-csd-gexp-mapper&theme=dark&hide_border=false&border_color=30363d&description_lines_count=3" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=3dc-csd-gexp-mapper&theme=swift&hide_border=false&border_color=e4e2e2" /><img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=3dc-csd-gexp-mapper&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" alt="3dc-csd-gexp-mapper" border="0" width="380" /></picture></a>
+<a href="https://github.com/vancenceho/project-edith" style="text-decoration: none"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=dark&hide_border=false&border_color=30363d&description_lines_count=3&v=2" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3&v=2" /><img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=project-edith&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3&v=2" alt="project-edith" border="0" width="380" /></picture></a>
+<a href="https://github.com/vancenceho/3dc-csd-gexp-mapper" style="text-decoration: none"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=3dc-csd-gexp-mapper&theme=dark&hide_border=false&border_color=30363d&description_lines_count=3&v=2" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=3dc-csd-gexp-mapper&theme=swift&hide_border=false&border_color=e4e2e2&v=2" /><img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=3dc-csd-gexp-mapper&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3&v=2" alt="3dc-csd-gexp-mapper" border="0" width="380" /></picture></a>
 </div>
 <div style="margin: 0">
-<a href="https://github.com/vancenceho/simple-rag-app" style="text-decoration: none"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=dark&hide_border=false&border_color=30363d&description_lines_count=3" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" /><img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" alt="simple-rag-app" border="0" width="380" /></picture></a>
-<a href="https://github.com/vancenceho/presales-workshop-manager" style="text-decoration: none"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=presales-workshop-manager&theme=dark&hide_border=false&border_color=30363d&description_lines_count=3" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=presales-workshop-manager&theme=swift&hide_border=false&border_color=e4e2e2" /><img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=presales-workshop-manager&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3" alt="presales-workshop-resource-manager" border="0" width="380" /></picture></a>
+<a href="https://github.com/vancenceho/simple-rag-app" style="text-decoration: none"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=dark&hide_border=false&border_color=30363d&description_lines_count=3&v=2" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3&v=2" /><img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=simple-rag-app&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3&v=2" alt="simple-rag-app" border="0" width="380" /></picture></a>
+<a href="https://github.com/vancenceho/presales-workshop-manager" style="text-decoration: none"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=presales-workshop-manager&theme=dark&hide_border=false&border_color=30363d&description_lines_count=3&v=2" /><source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=presales-workshop-manager&theme=swift&hide_border=false&border_color=e4e2e2&v=2" /><img src="https://github-readme-stats-nu-six-49.vercel.app/api/pin/?username=vancenceho&repo=presales-workshop-manager&theme=swift&hide_border=false&border_color=e4e2e2&description_lines_count=3&v=2" alt="presales-workshop-resource-manager" border="0" width="380" /></picture></a>
 </div>
 </div>
 
