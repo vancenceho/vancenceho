@@ -195,7 +195,7 @@
         <!-- Light Mode -->
         <source
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=swift&exclude=jupyter&20Notebook"
+          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=swift&exclude=jupyter%20Notebook"
         />
        <img 
           height="200" 
