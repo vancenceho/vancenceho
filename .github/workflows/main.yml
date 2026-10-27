@@ -1,10 +1,10 @@
-name: generate pacman game
+name: generate pacman game and refresh stats
 
 on:
-  schedule: # Run automatically every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # Allows manual triggering
-  push: # Runs on every push to the main branch
+  schedule:
+    - cron: "0 */12 * * *" # consider "0 */6 * * *" for fresher stats
+  workflow_dispatch:
+  push:
     branches:
       - main
 
@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: generate pacman-contribution-graph.svg
@@ -21,11 +21,48 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # Push the generated SVG to the output branch
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: fetch fresh GitHub stats cards
+        env:
+          GH_USER: ${{ github.repository_owner }}
+        run: |
+          mkdir -p dist
+          TS=$(date +%s)
+          STATS="https://github-readme-stats-nu-six-49.vercel.app"
+          STREAK="https://github-readme-streak-stats-eight.vercel.app"
+          SUMMARY="https://github-profile-summary-cards.vercel.app"
+
+          fetch() {
+            local out="$1" url="$2"
+            curl -fsSL --retry 3 --retry-delay 5 "${url}&cb=${TS}" -o "dist/${out}"
+            # Fail instead of publishing an error card
+            if ! head -c 300 "dist/${out}" | grep -q "<svg" || grep -qE "Something went wrong|Could not fetch" "dist/${out}"; then
+              echo "Bad response for ${out}"; cat "dist/${out}" | head -c 500; exit 1
+            fi
+          }
+
+          # Stats card
+          fetch stats-dark.svg  "${STATS}/api?username=${GH_USER}&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58&hide_border=true&count_private=true&commits_year=2026"
+          fetch stats-light.svg "${STATS}/api?username=${GH_USER}&show_icons=true&theme=swift&rank_icon=github&ring_color=F05138&hide_border=true&count_private=true&commits_year=2026"
+
+          # Streak card
+          fetch streak-dark.svg  "${STREAK}/?user=${GH_USER}&theme=codestackr&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true"
+          fetch streak-light.svg "${STREAK}/?user=${GH_USER}&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true"
+
+          # Top languages
+          fetch top-langs-dark.svg  "${STATS}/api/top-langs/?username=${GH_USER}&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook&hide_border=true&card_width=445"
+          fetch top-langs-light.svg "${STATS}/api/top-langs/?username=${GH_USER}&layout=compact&theme=graywhite&langs_count=8&hide=jupyter%20notebook&hide_border=true&card_width=445"
+
+          # Repos per language
+          fetch repos-dark.svg  "${SUMMARY}/api/cards/repos-per-language?username=${GH_USER}&theme=codeSTACKr&exclude=jupyter%20Notebook"
+          fetch repos-light.svg "${SUMMARY}/api/cards/repos-per-language?username=${GH_USER}&theme=swift&exclude=jupyter%20Notebook"
+
+      - name: push SVGs to the output branch as the GitHub Actions bot
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          commit_message: "chore: refresh pacman graph and stats [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
