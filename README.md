@@ -127,41 +127,25 @@
     <td>
       <picture>
         <!-- Dark Mode -->
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=dark&rank_icon=github&ring_color=ffdb58&hide_border=true&count_private=true&commits_year=2026&v=2"
-        />
+        <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/stats-dark.svg" />
         <!-- Light Mode -->
-        <source
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=swift&rank_icon=github&ring_color=F05138&hide_border=true&count_private=true&commits_year=2026&v=2"
-        />
-        <img 
-          height="200" 
-          align="center"
-          alt="vancenceho"
-          src="https://github-readme-stats-nu-six-49.vercel.app/api?username=vancenceho&show_icons=true&theme=swift&rank_icon=github&ring_color=F05138&hide_border=true&count_private=true&commits_year=2026&v=2"
-        />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/stats-light.svg" />
+        <img height="200" align="center" alt="vancenceho"
+          src="https://raw.githubusercontent.com/vancenceho/vancenceho/output/stats-light.svg" />
       </picture>
     </td>
     <td>
       <picture>
         <!-- Dark Mode -->
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-streak-stats-eight.vercel.app/?user=vancenceho&theme=codestackr&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true&v=2"
-        />
+        <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/streak-dark.svg" />
         <!-- Light Mode -->
-        <source
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://github-readme-streak-stats-eight.vercel.app/?user=vancenceho&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true&v=2"
-        />
-        <img 
-          height="200" 
-          align="center"
-          alt="GitHub Streak" 
-          src="https://github-readme-streak-stats-eight.vercel.app/?user=vancenceho&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true&v=2"
-        />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/streak-light.svg" />
+        <img height="200" align="center" alt="vancenceho"
+          src="https://raw.githubusercontent.com/vancenceho/vancenceho/output/streak-light.svg" />
       </picture>
     </td>
   </tr>
@@ -169,42 +153,25 @@
     <td>
       <picture>
         <!-- Dark Mode -->
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook&hide_border=true&card_width=445&v=2"
-        />
+        <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/top-langs-dark.svg" />
         <!-- Light Mode -->
-        <source 
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=graywhite&langs_count=8&hide=jupyter%20notebook&hide_border=true&card_width=445&v=2"
-        />
-        <img 
-          height="200" 
-          align="center" 
-          style="width: 100%;"
-          alt="Most Used Languages"
-          src="https://github-readme-stats-nu-six-49.vercel.app/api/top-langs/?username=vancenceho&layout=compact&theme=graywhite&langs_count=8&hide=jupyter%20notebook&hide_border=true&card_width=445&v=2" 
-        />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/top-langs-light.svg" />
+        <img height="200" align="center" alt="vancenceho"
+          src="https://raw.githubusercontent.com/vancenceho/vancenceho/output/top-langs-light.svg" />
       </picture>
     </td>
     <td>
       <picture>
         <!-- Dark Mode -->
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=codeSTACKr&exclude=jupyter%20Notebook&v=2"
-        />
+        <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/repos-dark.svg" />
         <!-- Light Mode -->
-        <source
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=swift&exclude=jupyter%20Notebook&v=2"
-        />
-       <img 
-          height="200" 
-          align="center" 
-          style="width: 100%;" 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vancenceho&theme=swift&exclude=jupyter%20Notebook&v=2" alt="Repos Per Language" 
-        />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          srcset="https://raw.githubusercontent.com/vancenceho/vancenceho/output/repos-light.svg" />
+        <img height="200" align="center" alt="vancenceho"
+          src="https://raw.githubusercontent.com/vancenceho/vancenceho/output/repos-light.svg" />
       </picture>
     </td>
   </tr>
